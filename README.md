@@ -5,7 +5,7 @@ Also there is an HTML file for you to put your fish's attributes and get the pre
 machine or use this url to heroku: [Fish_Type_prediction](https://fish-predict1.herokuapp.com/)
 
 # Files
-Fish-prediction= Model/n
+Fish-prediction= Model<br />
 FlaskApp= Flask Application
 clf= pickle file of the classifier model
 Fish= CSV dataset
