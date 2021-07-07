@@ -1,7 +1,7 @@
 # Project Title
 
-This is a classification problem for Fish.csv dataset. In this project, you are ging to use Decision_Tree Classifier. Also you can find a flask app for the model and an HTML file.
-Also there is an HTML file for you to put your fish's attributes and get the prediction. clf.pkl is the model's pickle file use in flask app. You can run the codes in your local 
+This is a classification problem for Fish.csv dataset. In this project, you are ging to use Decision_Tree Classifier. Also you can find a flask app for the model to use web interface.
+Also there is an HTML file for you to put your fish's attributes and get the prediction. clf.pkl is the model's pickle file used in flask app. You can run the codes in your local 
 machine or use this url to heroku: [Fish_Type_prediction](https://fish-predict1.herokuapp.com/)
 
 # Files
