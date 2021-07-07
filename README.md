@@ -6,8 +6,8 @@ machine or use this url to heroku: [Fish_Type_prediction](https://fish-predict1.
 
 # Files
 Fish-prediction= Model<br />
-FlaskApp= Flask Application
-clf= pickle file of the classifier model
+FlaskApp= Flask Application<br />
+clf= pickle file of the classifier model<br />
 Fish= CSV dataset
 
 # Links
